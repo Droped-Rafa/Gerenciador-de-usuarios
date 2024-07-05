@@ -1,4 +1,4 @@
-# Gerenciador de Usuários
+# Gerenciador de Usuários em Java
    Este projeto é um exemplo simples de um sistema de gerenciamento de usuários desenvolvido com Spring Boot. Ele demonstra operações básicas como criar, ler, atualizar e deletar (CRUD) usuários através de uma API RESTful.
 
 ### Tecnologias Utilizadas
