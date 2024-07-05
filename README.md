@@ -1,19 +1,16 @@
 # Gerenciador de Usuários em Java
    Este projeto é um exemplo simples de um sistema de gerenciamento de usuários desenvolvido com Spring Boot. Ele demonstra operações básicas como criar, ler, atualizar e deletar (CRUD) usuários através de uma API RESTful.
 
-### Tecnologias Utilizadas
+### Depêndencias Utilizadas
  
- · Spring Boot: Framework utilizado para desenvolvimento de aplicações Java.
+ · Spring Boot
  
- · Spring Data JPA: Biblioteca do Spring para facilitar o acesso e manipulação de dados em bancos de dados relacionais.
+ · Spring Data JPA
  
- · H2 Database: Banco de dados em memória para armazenamento de dados durante o desenvolvimento.
- 
- · Maven: Gerenciador de dependências e construção de projetos.
- 
- · Insomnia: Ferramenta para testar e depurar APIs RESTful.
+ · H2 Database
 
 ### Funcionalidades
+
  · Listar Usuários: Endpoint para listar todos os usuários cadastrados.
  
  · Buscar Usuário por ID: Endpoint para buscar um usuário específico pelo seu ID.
@@ -23,14 +20,6 @@
  · Atualizar Usuário: Endpoint para atualizar os dados de um usuário existente.
  
  · Deletar Usuário: Endpoint para deletar um usuário existente.
-
-### Pré-requisitos
- 
- · JDK 11 ou superior instalado.
- 
- · Maven instalado.
-
- · IDE (como IntelliJ IDEA, Eclipse) para desenvolvimento, VsCode utilizada no projeto.
 
 ### Como Executar
  · Clone o repositório para o seu ambiente local:
