@@ -9,6 +9,8 @@
  
  · H2 Database
 
+ · Lombok
+
 ### Funcionalidades
 
  · Listar Usuários: Endpoint para listar todos os usuários cadastrados.
